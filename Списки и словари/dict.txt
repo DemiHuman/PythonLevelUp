@@ -1,0 +1,4 @@
+дело - case, business, thing, work
+вещь - thing, work, object, article
+предмет - subject, object, thing
+работа - work, service, job
